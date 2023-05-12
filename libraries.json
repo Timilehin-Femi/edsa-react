@@ -1,0 +1,48 @@
+{
+    "libraries":[
+  {
+    "name":"Bootstrap",
+    "narration": "Bootstrap is a front end framework used to design responsive web pages and applications. It takes a mobile-first approach to web development, and includes pre-built CSS styles and classes, plus some JavaScript functionality."
+  },
+
+  {
+    "name": "React",
+    "narration": "React is a popular JavaScript library for building reusable, component-driven user interfaces for web pages or applications. React combines HTML with JavaScript functionality into its own markup language called JSX. React also makes it easy to manage the flow of data throughout the application."
+  },
+
+  {
+    "name":"Redux",
+    "narration": "As applications grow in size and scope, managing shared data becomes much more difficult. Redux is defined as a \"predictable state container for JavaScript apps\" that helps ensure your apps work predictably, and are easier to test."
+  },
+
+  {
+    "name":"JQuery",
+    "narration": "jQuery is one of the most widely used JavaScript libraries in the world. In 2006 when it was released, all major browsers handled JavaScript slightly differently. jQuery simplified the process of writing client-side JavaScript, and also ensured that your code worked the same way in all browsers."
+  },
+
+  {
+    "name":"SASS",
+    "narration": "Sass, or \"Syntactically Awesome StyleSheets\", is a language extension of CSS. It adds features that aren't available in basic CSS, which make it easier for you to simplify and maintain the style sheets for your projects.Sass provides a compiler that allows us to write stylesheets in two different syntaxes, indented and SCSS."
+  },
+  {
+    "name":"Backbone",
+    "narration":"Backbone is fast to develop, easy to learn, and perfect for creating small and straightforward SPAs. This lightweight framework follows an MVC/MVP architecture, offers more than a hundred extensions, and keeps the code organized and systematic. Backbone can help avoid complicated code while sustaining a better design by separating business and UI logic even in large projects."
+
+  },
+  {
+    "name":" Angular",
+    "narration":"By simply extending the capabilities of any application’s HTML syntax, AngularJS multiplies its productivity, scalability, and flexibility. Developed by Google, Angular can be used for web or mobile development (+native). As one of the top front-end development frameworks, it ensures two-way data binding, allows developers to code specific DOM behavior, and offers reusable code components that are easy to test and control."
+  },
+
+  {
+    "name":"VueJS",
+    "narration":"VueJS features two-way binding, component-based architecture, virtual DOM, and an extensive toolset. Unlike Angular that may require enterprises to hire HTML5 programmers, Vue is simple to understand and very beginner-friendly. Even though Vue is relatively new and not ideal for bigger, complex projects, its elaborate documentation, fast performance, and supportive community make it an excellent choice otherwise."
+  },
+  {
+    "name":" Anime",
+    "narration":"Anime.js is a powerful, lightweight, flexible, and versatile JavaScript library that can be employed with SVG, CSS, JS objects, DOM attributes, individual transforms, etc. It has an easily understandable source code, cross-browser compatibility (Chrome, Firefox, Safari, Opera, etc.), and readily employable animations for complex actions like overlapping, trigger, reverse, etc."
+  }
+
+
+]
+}
